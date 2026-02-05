@@ -16,6 +16,6 @@ PHP
 
 ## Output atteso:
 
-1. Ciao, Mondo!
-2. Ciao, Giovanni!  
-3. Ciao, Zio! 
+1. CIAO, Mondo!
+2. CIAO, Giovanni!  
+3. CIAO, Zio! 
